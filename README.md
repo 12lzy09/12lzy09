@@ -1,4 +1,4 @@
-### Hi there 👋
+### 我是计算机专业大三的学生，喜欢健身、跑步等运动。喜欢旅游。目前在自学一些计算机技能，希望日后能找到一个好工作。我的QQ邮箱是2336355920@qq.com.
 
 <!--
 **12lzy09/12lzy09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
